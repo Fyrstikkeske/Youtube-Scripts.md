@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"00dc89fc82250c8f","type":"text","text":"Start","x":-800,"y":-163,"width":250,"height":60},
+		{"id":"618e0a17d0125c6e","x":-800,"y":-103,"width":400,"height":400,"type":"file","file":"MI1/script grrr.md"},
+		{"id":"f8a5527ce3c72976","type":"file","file":"MI1/Ending Car Crash.md","x":-100,"y":-41,"width":400,"height":277}
+	],
+	"edges":[
+		{"id":"ca7acf979fc1246e","fromNode":"618e0a17d0125c6e","fromSide":"right","toNode":"f8a5527ce3c72976","toSide":"left"}
+	]
+}

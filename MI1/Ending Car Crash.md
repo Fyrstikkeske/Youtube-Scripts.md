@@ -1,0 +1,1 @@
+Kjører en bil, æ følge ikke med, bilen kjøre utenfor et stup, Innocense glitched spiller, og romvesen plukker oss opp
